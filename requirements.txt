@@ -11,7 +11,7 @@ djangotoolbox==1.8.0
 gdax==1.0.6
 idna==2.6
 mongoengine==0.13.0
-paramiko==2.2.1
+paramiko==2.10.1
 pprint==0.1
 pyasn1==0.3.3
 pycparser==2.18
